@@ -12,12 +12,12 @@ Luminosity is a project designed to bring light to every corner of the digital w
 To install Luminosity, follow these steps:
 1. Download the latest build:
 2. Specify the script using:
-   ```html
-   <script>
+```html
+<script>
     window.LuminosityPath = "/src/";
-  </script>
-  <script type="module" src="/src/main.js"></script>
-   ```
+</script>
+<script type="module" src="/src/main.js"></script>
+```
 3. Look at the template!
 
 ## Usage
