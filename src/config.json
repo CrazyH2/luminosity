@@ -1,0 +1,25 @@
+{
+	"main": {
+		"favicon": "favicon.png",
+		"title": "Luminosity example",
+		"description": "Luminosity example to help devs.",
+		"author": "CrazyH2",
+
+		"start_page": "example.js",
+		"loading_page": "loading_page.js",
+		"not_found_page": "not_found_page.js",
+		"on_error": {
+			"page": "error.js",
+			"info_element": ".error_info"
+		},
+		"init_with_states": {
+			"state": false
+		},
+		"global_css": {
+			"colorScheme": "dark light"
+		}
+	},
+	"pages": {
+		"example": "example.js"
+	}
+}
